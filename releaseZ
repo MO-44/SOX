@@ -1,0 +1,8 @@
+Origin
+Label
+suite: stable
+Version: 1.0
+codename: ios
+Architectures:iphoneos-arm
+Components: main
+Description
